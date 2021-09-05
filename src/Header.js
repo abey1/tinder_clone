@@ -22,7 +22,6 @@ function Header() {
                 <QuestionAnswerIcon fontSize="large" className="header_icon"/>
             </IconButton>
 
-
         </div>
     )
 }
